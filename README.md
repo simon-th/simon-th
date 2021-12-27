@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I literally discovered this by accident this is so cool
+
 <!--
 **simon-th/simon-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
